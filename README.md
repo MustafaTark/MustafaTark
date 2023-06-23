@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Tarek</h1>
-<h3 align="center">I'm software engineer with a passion for soft ware Development and web application creation, particularly in the backend development, including API and database design.</h3>
+<h3 align="center">I'm software engineer with a passion for software Development and web application creation, particularly in the backend development, including API and database design.</h3>
 
 - 📫 How to reach me **mostaf01230@gmail.com**
 
